@@ -1,0 +1,7 @@
+Flask
+yfinance
+pandas
+requests
+gunicorn
+beautifulsoup4
+xlrd
